@@ -6,7 +6,7 @@ def bissexto(ano):
         return False
 
 
-data = input('Informe mês data e ano separando por espaços: ').split()
+data = input('Informe mês data e ano de nascimento separando por espaços: ').split()
 dia, mes, ano = map(int, data)
 data_valida = True
 meses = ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro']
@@ -43,4 +43,4 @@ if data_valida:
     if datetime.now().year < ano:
         print('Data inválida! Ano atual, menor que o ano informado.')
     else:
-        print(f'Data registrada: {"/".join(data)}')
+        print(f'Data válida: {"/".join(data)}')
