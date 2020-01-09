@@ -1,0 +1,20 @@
+Pierre;Belo Horizonte
+Alex Vieira;Diamantina
+Alex Silva;Minas Novas
+Alexandro;Montes Claros
+Duduca;Diamantina
+Ana Claudia;Belo Horizonte
+Fernando;Diamantina
+Fernanda;Diamantina
+Alisson;Diamantina
+Celiane;Diamantina
+Anderson Junior;Belo Horizonte
+Anderson;Diamantina
+Alvimar;Minas Novas
+Alvimarzinho;Minas Novas
+Sabrina;Diamantina
+Néia;Capelinha
+Mara;Montes Claros
+Ana Carolina;Montes Claros
+Anna Clara;Diamantina
+Kátia;Minas Novas
