@@ -1,0 +1,7 @@
+arroz;1.42
+feijao;3.2
+linguiça;8.7
+frango;13.19
+ovo;8.80
+macarrao;5.50
+salada;20.45
