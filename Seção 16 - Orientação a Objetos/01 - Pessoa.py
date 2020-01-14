@@ -1,6 +1,3 @@
-from typing import Any
-
-
 class Pessoa:
     def __init__(self, nome: str, idade: int, altura: float):
         self._nome = nome
@@ -39,6 +36,7 @@ class Pessoa:
         self._altura = altura
 
 
-pessoa = Pessoa('Pierre', 19, 1.83)
-pessoa.idade += 1
-pessoa.ver_dados()
+if __name__ == '__main__':
+    pessoa = Pessoa('Pierre', 19, 1.83)
+    pessoa.idade += 1
+    pessoa.ver_dados()
