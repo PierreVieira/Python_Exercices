@@ -65,7 +65,7 @@ class Agenda:
         print(f'Altura: {pessoa.altura}')
 
     def imprime_agenda(self):
-        """Impre os dados de todas as pessoas da agenda"""
+        """Imprime os dados de todas as pessoas da agenda"""
         print('\033[1;31m ======== AGENDA ========\033[m')
         for pessoa in self._pessoas:
             self._dados_pessoa(pessoa)
